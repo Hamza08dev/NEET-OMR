@@ -35,12 +35,12 @@ Main function that integrates the entire pipeline—document detection, cropping
 
 ## 📂 Examples
 
-| Stage                  | Output                             |
-|------------------------|-------------------------------------|
-| Original Scan          | ![](examples/original_scan.jpg)     |
-| Document Detection     | ![](examples/detected_document.jpg) |
-| Line Detection         | ![](examples/detected_lines.jpg)    |
-| Bubble Analysis        | ![](examples/bubble_analysis.jpg)   |
+| Stage                              | Output                                          |
+|------------------------------------|-------------------------------------------------|
+| Original Scan                      | ![](examples/omr_brown.jpg)                 |
+| Document Detection and cropping    | ![](examples/resized_image.jpg)             |
+| Line Detection                     | ![](examples/lines_drawn.png)                |
+| Bubble Analysis                    | ![](examples/bubbles_drawn.jpg)               |
 
 ---
 
