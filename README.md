@@ -51,8 +51,8 @@ Main function that integrates the entire pipeline—document detection, cropping
 ---
 
 ## 👤 Author
-Shiva Dhanush
-[![GitHub](https://img.shields.io/badge/GitHub-hamza08dev-181717?style=flat&logo=github&logoColor=white)](https://github.com/Hamza08dev)  
+Shiva Dhanush - [![GitHub](https://img.shields.io/badge/GitHub-shiva666-181717?style=flat&logo=github&logoColor=white)](https://github.com/shiva666)  
+Mohammed Hamza - [![GitHub](https://img.shields.io/badge/GitHub-hamza08dev-181717?style=flat&logo=github&logoColor=white)](https://github.com/Hamza08dev)  
 For demo purposes.  
 Feel free to fork, reuse, or improve!
 
