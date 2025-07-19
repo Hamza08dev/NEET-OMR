@@ -51,7 +51,8 @@ Main function that integrates the entire pipeline—document detection, cropping
 ---
 
 ## 👤 Author
+Shiva Dhanush
 Mohammed Hamza  
-For internship/demo purposes.  
+For demo purposes.  
 Feel free to fork, reuse, or improve!
 
